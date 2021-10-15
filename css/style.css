@@ -3,6 +3,7 @@ body{
 }
 .logo{
     padding:50px;
+    text-align: center;
 }
 .textBranco{
     color: white;

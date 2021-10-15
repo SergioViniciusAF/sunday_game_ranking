@@ -1,0 +1,39 @@
+body{
+    background-color:#70A1FF;
+}
+.logo{
+    padding:50px;
+}
+.textBranco{
+    color: white;
+}
+
+#divButtonEntrar
+{
+    text-align: center;
+}
+
+.btnAmarelo{
+    
+    background-color: #FFC107;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: .30rem;
+    border: none;
+}
+#divBtnCadastrar{
+    text-align: center;
+
+}
+#btnEntrar{
+    margin:14px;
+    width:160px;
+ 
+}
+
+.btn-link{
+    width: 170px;
+    margin:150px;
+}

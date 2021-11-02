@@ -1,5 +1,6 @@
 body{
     background-color:#70A1FF;
+    overflow: auto;
 }
 .logo{
     padding:50px;
@@ -33,7 +34,18 @@ body{
     width:160px;
  
 }
+#btnCadastrar{
+    margin:14px;
+    width:160px;
+
+}
 
 .btn-link{
     color: white;
+}
+h2{
+   text-align: center;
+    font-size: calc(1.325rem + .9vw);
+    color: white;
+
 }

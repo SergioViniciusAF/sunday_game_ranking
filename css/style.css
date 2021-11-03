@@ -2,6 +2,9 @@ body{
     background-color:#70A1FF;
     overflow: auto;
 }
+.bodyBranco{
+    background-color: white;
+}
 .logo{
     padding:50px;
     text-align: center;
@@ -48,4 +51,21 @@ h2{
     font-size: calc(1.325rem + .9vw);
     color: white;
 
+}
+.subTituloMenu{
+    text-align: center;
+    font-size: 30px;
+    color:#70A1FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+#navbarNav{
+    color:#70A1FF;
+}
+.card-header{
+  background-color:#70A1FF;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }

@@ -42,6 +42,15 @@ body{
     width:160px;
 
 }
+#btnAtualizarRanking{
+  
+    width:260px;
+
+}
+#AtualizarRanking{
+    text-align: center;
+    background-color:#70A1FF ;
+}
 
 .btn-link{
     color: white;
@@ -64,8 +73,25 @@ h2{
     color:#70A1FF;
 }
 .card-header{
+    
   background-color:#70A1FF;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
+}
+#cardAtualizarRanking{
+  background-color:#70A1FF;
+ 
+}
+#textoBranco{
+    color:white;
+
+}
+#textPontuaçao{
+  
+    height: 30px;
+    width: 100px;
+}
+#nomeCompentidor{
+    font-size: 20px;
 }

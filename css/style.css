@@ -95,3 +95,38 @@ h2{
 #nomeCompentidor{
     font-size: 20px;
 }
+#novoRanking{
+    
+    background-color: white;
+    
+}
+.subTituloCadRAnking{
+    text-align: center;
+    font-size: 24px;
+    color:#70A1FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+#divNovoJogo{
+   
+    color:#70A1FF;
+
+}
+#NovoJogo{
+    color:#70A1FF;
+
+}
+
+#divAddParticipante{
+    text-align: center;
+
+}
+#btnNovoPartipante{
+    font-size: 22px;
+    color:#70A1FF;
+}
+#textModal{
+    color:#70A1FF;
+
+}

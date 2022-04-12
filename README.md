@@ -1,12 +1,23 @@
 # Sunday Game Ranking
 
-Front End do projeto Sunday Game Ranking que consiste em um app para registrar a pontuação de partidas de jogos.
+##### Front End do projeto Sunday Game Ranking. 
+##### Que consiste em um app para registrar games e usuários, para que os mesmo acompanhe as pontuações das partidas dos jogos.
 
-O Front foi feito com base no modelo feito no Adobe XD.
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- 
+## Serviços Utilizados
+- GitHub
+- Adobe XD
 
-Link do modelo: https://xd.adobe.com/view/82e5c528-fb37-400b-8df2-cc234f5520c2-d7b6/
+## Links
 
-Imagens do desenvolvimento em HTML e CSS:<br /> 
+- https://xd.adobe.com/view/82e5c528-fb37-400b-8df2-cc234f5520c2-d7b6/
+
+## Versão Mobile <br /> 
 
 <img src="https://user-images.githubusercontent.com/79481502/158879149-3bb7e2f0-4176-4d19-87ab-05a5c86c2329.png" width="400">
 <img src="https://user-images.githubusercontent.com/79481502/158879155-47602391-2502-4cfc-85fa-5d666b501aec.png" width="400">

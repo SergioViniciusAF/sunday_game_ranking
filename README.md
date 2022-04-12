@@ -38,6 +38,10 @@
 ##  Tela de configurações de perfil.
 <img src="https://user-images.githubusercontent.com/79481502/158879152-eea3027f-18e4-47ec-8bf1-f0d0367a702b.png" width="400">
 
+## Autor
+
+Sérgio Freitas
+
 
 
 
